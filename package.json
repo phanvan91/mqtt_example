@@ -1,0 +1,21 @@
+{
+  "name": "mqtt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mqtt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "commander": "^10.0.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mqtt": "^4.3.7",
+    "path": "^0.12.7"
+  }
+}
